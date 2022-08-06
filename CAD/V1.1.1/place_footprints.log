@@ -1,0 +1,71 @@
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 378:Plugin executed on: 'win32'
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 379:Plugin executed with python version: '3.9.10 (main, Feb 11 2022, 04:18:11) [MSC v.1928 64 bit (AMD64)]'
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 380:KiCad build version: (6.0.2)
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 381:Plugin version: 1.2.5
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 382:Frame repr: <wx._core.Frame object at 0x00000188A30F91F0>
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint D4 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint H1 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint  does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint G*** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint  does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint D1 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint G*** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint Q3 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint R1 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint R4 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint R8 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint  does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint  does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint  does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint JP2 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint R6 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint K3 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint R5 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint  does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint  does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint  does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint G*** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint K1 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint D9 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint  does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint  does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint  does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint D7 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint Q1 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint  does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint R3 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint  does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint  does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint D3 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint D5 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint D6 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint R7 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint  does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint FD1 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint D8 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint Q4 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint Q2 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint D2 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint R9 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint H2 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint JP1 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint R2 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint  does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint K2 on root level
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint  does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint  does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint  does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint  does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint  does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint  does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+07-19 14:59:30 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 570:Reference designator is: Q
+07-19 14:59:30 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 571:Reference number is: 2
+07-19 14:59:30 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 603:Sorted and filtered list:
+['Q1', 'Q2', 'Q3', 'Q4']
+07-19 14:59:35 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 641:Footprints to place:
+['Q1', 'Q2', 'Q3', 'Q4']
+07-19 14:59:35 com_github_MitjaNemec_PlaceFootprints.place_footprints 296:Starting placing with linear layout
+07-19 14:59:35 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 685:Placing complete
