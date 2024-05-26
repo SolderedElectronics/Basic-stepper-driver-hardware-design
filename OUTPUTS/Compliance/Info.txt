@@ -2,4 +2,4 @@ SKU: 333134
 Full product name: Basic stepper driver
 Country of origin: Croatia
 HS tariff code: 85030029
-EAN/UPC barcode: 
+EAN/UPC barcode: 732388665105
